@@ -1,7 +1,7 @@
 # Higurashi Steam Sprite/PS3 Background Patch
-For Higurashi No Naku Koro Ni - Chapters 1-3 Onikakushi, Watanagashi, and Tatarigoroshi
+For Higurashi No Naku Koro Ni - Chapters 1-4 Onikakushi, Watanagashi, Tatarigoroshi, and Himatsubushi
 
-This patch aims to work in conjunction with 07th-mod's PS3 Voice and Graphics Patch for episodes 1-3 of Higurashi. Simply use the link below to download the necessary files to mod your copy of the game, then download the appropriate steam sprites zip file and follow the README instructions to make use of 07th-mod's PS3 backgrounds and voices, but keep the original Steam sprites without breaking the game.
+This patch aims to work in conjunction with 07th-mod's PS3 Voice and Graphics Patch for episodes 1-4 of Higurashi. Simply use the link below to download the necessary files to mod your copy of the game, then download the appropriate steam sprites zip file and follow the README instructions to make use of 07th-mod's PS3 backgrounds and voices, but keep the original Steam sprites without breaking the game.
 
 https://github.com/07th-mod/guide/wiki/Part-1---Voice-and-Graphics-Patch
 
